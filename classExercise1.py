@@ -50,6 +50,10 @@ and please if you get stuck put your hand up
 
 # if statements
 
+"""
+In this question i want you to replace the question marks (?) with either 'the colour is equal to red' or 'the colour is not equal to red'' 
+"""
+
 colour = "red"
 
 if colour == "red":
@@ -62,8 +66,9 @@ else:
 name = input("enter your name: ")
 
 """
-here i want to check if the first charactor in the name entered by the user is m
+here i want to check if the first charactor in the name entered by the user (this is initialised up above) is m
 if there name starts with m print "your name starts with m" if not then print "your name dose not start with m"
+also note that you must replace the (?) inside the square brackets [] with the appropriate index to only get the first letter
 """
 
 if name[?] == "m":
@@ -78,7 +83,7 @@ else:
 mylist = [1, 3, 5, 7, 9]
 
 """
-here i want your to irritate though the list given above, replace the ? with the correct word/variable
+here i want you to irritate though the list given above, replace the ? with the correct word/variable
 """
 
 for item in mylist:
