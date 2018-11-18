@@ -31,3 +31,19 @@ what is your age: 14
 
 > You can watch movies rated G, PG, 12A and 15A(but accompanyed by an adult)
 ``````
+
+If you need anymore clarification on this problem below is a quote from where i got this information
+
+``````
+    G – General: Suitable for all
+    
+    PG – Parental Guidance: Suitable for children aged eight and older; parents are advised to accompany younger children.
+    
+    12A – Minimum age for admission is 12, but younger children can be admitted if accompanied by an adult (12PG between 1 June 2001 - 1 January 2005).
+    
+    15A – Minimum age for admission is 15, but younger children can be admitted if accompanied by an adult (15PG between 1 June 2001 - 1 January 2005).
+    
+    16 – Minimum age for admission is 16; younger viewers will not be admitted under any circumstance (introduced on 1 January      2005).
+    
+    18 – Minimum age for admission is 18; younger viewers will not be admitted under any circumstance.
+``````
