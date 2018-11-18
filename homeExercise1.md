@@ -26,7 +26,7 @@ Create a program that asks the user for their age, and tells the user what rated
 
 for example:
 
-``````python
+``````
 what is your age: 14
 
 > You can watch movies rated G, PG, 12A and 15A(but accompanyed by an adult)
