@@ -9,10 +9,10 @@ date: 18/11/18
 Create a program that asks the user for their age, and tells the user what rated movies they can watch in the cinema. 
 
 * if the age is younger then 12 they can watch movies 
-  rated G and PG and 12A(but accompanyed by an adult) and 15A(but accompanyed by an adult)
+  rated G and PG and 12A(but accompanied by an adult) and 15A(but accompanied by an adult)
   
 * if the age is 12 they can watch movies 
-  rated G, PG, 12A and 15A(but accompanyed by an adult)
+  rated G, PG, 12A and 15A(but accompanied by an adult)
  
 * if the age is atleast 15 they can watch movies 
   rated G, PG, 12A and 15A
@@ -29,10 +29,10 @@ for example:
 ``````
 what is your age: 14
 
-> You can watch movies rated G, PG, 12A and 15A(but accompanyed by an adult)
+> You can watch movies rated G, PG, 12A and 15A(but accompanied by an adult)
 ``````
 
-If you need anymore clarification on this problem below is a quote from where i got this information
+If you need anymore clarification on this problem below is a quote from where I got this information
 
 ``````
 G – General: Suitable for all
