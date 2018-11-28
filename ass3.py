@@ -9,9 +9,13 @@ comp = randint(1, 3)
 
 user = input('Enter your choice of “rock”, “paper” or “scissors”: ')
 
-compchoice = ['rock', 'paper', 'scissors']
+choice = ['rock', 'paper', 'scissors']
 
-compans = compchoice[comp-1]
+if user not in choice:
+    print('Your choice is invalid')
+    quit()
+    
+compans = choice[comp-1]
 
 print('The computer picked %s' % compans)
 
